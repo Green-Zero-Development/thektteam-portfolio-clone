@@ -1,0 +1,32 @@
+{
+  "name": "gz-boiler",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "postbuild": "next-sitemap",
+    "start": "next start -p 8080",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@splidejs/react-splide": "^0.7.12",
+    "@types/node": "^18.15.11",
+    "@types/react": "^18.0.35",
+    "@types/styled-components": "^5.1.26",
+    "framer-motion": "^8.5.5",
+    "next": "^13.1.6",
+    "next-sitemap": "^3.1.55",
+    "postcss": "^8.4.22",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-slider": "^2.0.6",
+    "react-slideshow-image": "^4.2.1",
+    "styled-components": "^5.3.9",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "eslint": "8.26.0",
+    "eslint-config-next": "^0.2.4"
+  }
+}

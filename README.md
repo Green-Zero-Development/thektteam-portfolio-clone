@@ -1,0 +1,1 @@
+# Developed by me using NextJS (Frontend) and duel backend: Wordpress and Shopify.

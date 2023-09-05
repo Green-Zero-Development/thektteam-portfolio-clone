@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.thektteam.org
+
+# Sitemaps
+Sitemap: https://www.thektteam.org/sitemap.xml
